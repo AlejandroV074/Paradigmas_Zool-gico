@@ -1,0 +1,125 @@
+1) Alfonsino | vp
+2) Anchoveta | vp
+3) Bacalao de profundidad | vp
+4) Besugo | vp
+5) Caballa | vp
+6) Congrio dorado | vp
+7) Congrio negro | vp
+8) Jurel Lenguado | vp
+9)	Merluza común | vp
+10)	Merluza de cola | vp
+11)	Merluza de tres aletas | vp
+12)	Merluza del sur | vp
+13)	Orange roughy | vp
+14)	Pejegallo | vp
+15)	Pez espada | vp
+16)	Puye | vp
+17)	Raya volantín | vp
+18)	Reineta | vp
+19)	Salmon coho | vp
+20)	Salmón del atlántico | vp
+21)	Sardina austral | vp
+22)	Sardina común | vp
+23)	Sardina española | vp
+24)	Tortugas | vr
+25)	Tuátara | vr
+26)	Anfisbenio | vr
+27)	Iguana | vr
+28)	Anolis | vr
+29)	Lagartija | vr
+30)	Chucuala | vr
+31)	Agama | vr
+32)	Dragón de Komodo | vr
+33)	Geco | vr
+34)	Camaleón | vr
+35)	Salamanquesa | vr
+36)	Cocodrilos | vr
+37)	Escinco | vr
+38)	Eslizón | vr
+39)	Teyú | vr
+40)	Lagarto | vr
+41)	Calango verde | vr
+42)	Monstruo de Gila | vr
+43)	Serpientes | vr
+44)	Ganso | va
+45)	Lechuza| va
+46)	Koel | va
+47)	Garza | va
+48)	Quebrantahuesos | va
+49)	Herrerillo | va
+50)	Martin pescador | va
+51)	Pinzón | va
+52)	Flamenco | va
+53)	Guacamaya | va
+54)	Gallina | va
+55)	Avestruz |va
+56)	Perico | va
+57)	Canario | va
+58)	Frailecillo | va
+59)	Carpintero | va
+60)	Tucán | va
+61)	Cuervo | va
+62)	Chotacabras | va
+63)	Jilguero | va
+64)	Quetzal | va
+65)	Aguilucho | va
+66)	Mosquitero | va
+67)	Condor | va
+68)	Loro | va
+69)	Secretario | va
+70)	Cisne | va
+71)	Albatros | va
+72)	Pavo real | va
+73)	Halcones | va
+74)	Vencejo | va
+75)	Cárabo | va
+76)	Pingüino | va
+77)	Búho | va
+78)	Ñandú | va
+79)	Paloma | va
+80)	Leon | vm
+81)	Elefante | vm
+82)	Ballena | vm
+83)	Delfin | vm
+84)	Raton | vm
+85)	Caballo | vm
+86)	Perro | vm
+87)	Lobo | vm
+88)	Vaca | vm
+89)	Oso | vm
+90)	Conejo | vm
+91)	Gorila | vm
+92)	Chimpance | vm
+93)	Jirafa | vm
+94)	Hipopotamo | vm
+95)	Canguro | vm
+96)	Rinoceronte | vm
+97)	Oveja | vm
+98)	Cerdo | vm
+99)	Sapo común | vn
+100) Sapo gigante | vn
+101) Salamandra | vn
+102) Tritón | vn
+103) Rana venenosa | vn
+104) Rana de Nueva Zelanda | vn
+105) Rana de Seychelles | vn
+106) Rana arborícola | vn
+107) Rana flecha azul | vn
+108) Axolotl o o ajolote (salamandra mexicana)Cecilia | vn
+109) Pigmeos Salamandra pie plano | vn
+110) Jalapa tritón falso | vn
+111) esponjas | ip
+112) medusas | ic
+113) corales | ic
+114) gusanos marinos | ig
+115) caracoles | im
+116) babosas | im
+117) cangrejos | ia
+118) camarones | ia
+119) langostas | ia
+120) estrellas de mar | ie
+121) erizos de mar | ie
+
+
+
+

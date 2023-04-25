@@ -1,0 +1,25 @@
+Artropodos = U:
+Cangrejo |  
+Camaron 
+Langosta 
+
+Molusco = X:
+Caracol 
+Babosa 
+
+Equinodermos = O:
+Estrella de mar 
+Erizo de mar 
+
+Gusanos = L:
+Gusano Marino 
+
+Poriferos = E:
+Esponja 
+
+Celenteros = Z:
+Medusa 
+Polipos 
+Coral 
+
+OCUPADOS: M, P, A, R, X, Z, L, A, O
